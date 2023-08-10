@@ -1,4 +1,4 @@
-# Rat-robot-interactio
+# Rat-robot-interaction
 1) We provide the data from the rat-robot interaction experiments.<br/> 
 -- **\PIN_IN_sequence.mat** includes the  ethograms of behavior and ultrasonic vocalization from the rat-robot pinning experiments. 
 -- **\POU_IN_sequence.mat** includes the ethograms of behavior and ultrasonic vocalization from the rat-robot pouncing experiments. 
